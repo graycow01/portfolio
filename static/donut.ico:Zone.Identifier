@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://cloudconvert.com/
-HostUrl=https://us-east.storage.cloudconvert.com/tasks/f0fe6201-fe3a-46a6-860b-9d2f1e6ec145/donut.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240725%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20240725T225808Z&X-Amz-Expires=86400&X-Amz-Signature=6d1ca7b1d964bbf6d74f49f567293ec812520464ea5bbf03fc8348c76d323b7e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22donut.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
