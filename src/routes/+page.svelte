@@ -13,7 +13,9 @@
       <title>flanker45's portfolio</title>
 </svelte:head>
 
-<div class="w-full h-full flex flex-col items-center px-6 pt-16 pb-4">
+<div
+      class="w-full h-full flex flex-col items-center px-6 pt-16 pb-4 2xl:w-2/5 lg:w-1/2 md:w-3/5 sm:w-2/3"
+>
       <img src={donut} alt="Donut" class="pb-8 w-60 h-60" />
       <h1 class="font-semibold text-3xl mb-2">@flanker45</h1>
       <p class="text-gray-200 text-sm mb-2">
@@ -36,7 +38,7 @@
                   /></a
             >
       </div>
-      <p class="text-sm text-left mb-8">
+      <p class="text-sm text-center sm:text-left mb-8">
             Hey! I'm a 14 yo highschool developer based in the US, and I've been
             programming for 5+ years. I'm an avid learner always looking to try
             new technologies.
