@@ -9,9 +9,13 @@
       config.autoAddCss = false;
 </script>
 
+<svelte:head>
+      <title>flanker45's portfolio</title>
+</svelte:head>
+
 <div class="w-full h-full flex flex-col items-center px-6 pt-16 pb-4">
       <img src={donut} alt="Donut" class="pb-8 w-60 h-60" />
-      <h1 class="font-semibold text-3xl mb-2">@flanker45's site</h1>
+      <h1 class="font-semibold text-3xl mb-2">@flanker45</h1>
       <p class="text-gray-200 text-sm mb-2">
             TJHSST Class of 2028 • Fairfax, VA
       </p>
